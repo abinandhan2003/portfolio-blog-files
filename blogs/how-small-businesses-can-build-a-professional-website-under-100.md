@@ -2,7 +2,7 @@
 title: How Small Businesses Can Build a Professional Website Under $100
 slug: how-small-businesses-can-build-a-professional-website-under-100
 date: '2026-07-29T06:17:49.695Z'
-updatedAt: '2026-07-29T06:17:49.695Z'
+updatedAt: '2026-07-29T06:20:57.080Z'
 updatedBy: Abi Nandhan
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
@@ -39,7 +39,7 @@ seoKeywords:
   - businesses
   - mobile
   - small
-status: draft
+status: published
 ---
 
 ![1785305821131 busineeswebsite](https://raw.githubusercontent.com/abinandhan2003/portfolio-blog-files/main/assets/images/1785305821131-busineeswebsite.webp)
